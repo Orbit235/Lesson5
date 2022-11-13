@@ -71,33 +71,4 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: inherit;
 }
 
-p, section {
-  border: 2px dashed rgb(216, 162, 62);
-  border-radius: 20px;
-}
-
-body, html {
-  color: white;
-  background-color: #202020;
-  font-size: 17px;
-}
-
-section {
-  padding: 100px;
-  border: 2px solid rgb(216, 162, 62);
-}
-
-.image-container {
-  border-radius: 30px;
-  width: 100px;
-  height: 100px;
-}
-
-h1 {
-  font-size: 60px;
-}
-h1.offer-header span {
-  border-bottom: 3px dashed rgb(216, 162, 62);
-}
-
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=null.css.map */
